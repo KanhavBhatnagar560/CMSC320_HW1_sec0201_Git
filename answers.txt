@@ -10,3 +10,7 @@ Answer: Data Science can be used in computer science. For example, analyzing how
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines branches whuile preserving their existing commit history. Rebasing moves a branch's commits onto a new starting point, rewriting those commits to create a singular history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning more about Data Science in 320.
