@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Science can be used in computer science. For example, analyzing how people use an app cna help developers improve its features. 
