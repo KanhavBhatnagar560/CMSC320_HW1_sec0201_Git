@@ -1,15 +1,15 @@
 
 Q1: Why might we consider using Git?
 
-Answer: Git tracks changes, lets a user recover older versions, and allows users to collaberate with one another. 
+Answer: Git tracks changes, lets a user recover older versions, and allows users to collaborate with one another. 
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: Data Science can be used in computer science. For example, analyzing how people use an app cna help developers improve its features. 
+Answer: Data Science can be used in computer science. For example, analyzing how people use an app can help developers improve its features. 
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: Merging combines branches whuile preserving their existing commit history. Rebasing moves a branch's commits onto a new starting point, rewriting those commits to create a singular history.
+Answer: Merging combines branches while preserving their existing commit history. Rebasing moves a branch's commits onto a new starting point, rewriting those commits to create a linear history.
 
 Q4: What are you looking forward to this semester?
 
